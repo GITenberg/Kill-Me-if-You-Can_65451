@@ -1,0 +1,31 @@
+_repo: Kill-Me-if-You-Can_65451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: https://en.wikipedia.org/wiki/Randall_Garrett
+description: By Garrett, writing under S. M. Tenneshaw pseudonym.
+gutenberg_issued: '2021-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Dictatorship -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Kill Me if You Can!
+url: http://www.gutenberg.org/ebooks/65451
